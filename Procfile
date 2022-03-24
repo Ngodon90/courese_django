@@ -1,1 +1,1 @@
-wed gunicorn courese_django.wsgi
+wed gunicorn courese_django.wsgi:apllication --log-file -
